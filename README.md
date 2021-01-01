@@ -32,7 +32,7 @@ So overall
 6. paint
 Electronics
 7. From here, it is better if you look at the code
-- NeoPixel strip on D8
+- NeoPixel strip on D6
 - touch sensors on A2 and A4
 - I used a usb to power the whole project
     - You can either power it with the plug
