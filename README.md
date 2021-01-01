@@ -36,15 +36,16 @@ Electronics
 - touch sensors on A2 and A4
 - I used a usb to power the whole project
     - You can either power it with the plug
-    - or strip the wire to + and - then solder it directly t othe 5v and ground pins (I did this because why not but either way should work fine)
+    - or strip the wire to + and - then solder it directly to the 5v and ground pins (I did this because why not but either way should work fine)
     - so for the math: 20 milli amps per led, and 70 for operation = 20*31 + 70 = 690 so use a 1 amp power source to be safe.
 8. On the top, you will see a hole: I wanted to add a photoelectic sensor (to automatically dim the light) but I did not have the resistor to do it so I just left it there for people to try.
 9. Glue on the strip
-10. push it everything in the cubby
-11. cover it with the cover.stl
-12. hot glue everything
-13. nail on the wall
-14. you are done!
+10. push in everything in the cubby
+11. upload code: ou will have to update the EEPROM(from 0 to 370) to 0 before you even try to upload final.ino
+12. cover it with the cover.stl
+13. hot glue everything
+14. nail on the wall
+15. you are done!
 
 There may be things I did not cover so feel free to reach out to me either on reddit(u/joshyeram I check regularly so do not be scared to reach out lol) or youtube!
 
