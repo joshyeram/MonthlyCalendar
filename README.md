@@ -48,3 +48,4 @@ Electronics
 
 There may be things I did not cover so feel free to reach out to me either on reddit(u/joshyeram I check regularly so do not be scared to reach out lol) or youtube!
 
+Feel free to at me at @joshyeram on most platforms (reddit/insta/twitter)! 
