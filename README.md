@@ -3,7 +3,9 @@
 After school ended, I wanted to make something that would keep track of my new year resolution. So I decided to make a calendar to keep track of my resolution.
 
 https://youtu.be/uk93dJq7Fd0
+
 https://www.reddit.com/r/arduino/comments/ko2izf/monthly_calendar_the_monthly_version_of_the_every/
+
 https://www.reddit.com/r/3Dprinting/comments/ko2m4w/this_project_was_the_first_time_i_ever_processed/
 - resources for reference
 
