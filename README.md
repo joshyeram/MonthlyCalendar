@@ -31,7 +31,7 @@ So overall
 5. repear 3 and 4 until smooth
 6. paint
 Electronics
-7. From here, it is better if you look at the code
+7. From here, it is better if you look at the code (final.ino)
 - NeoPixel strip on D6
 - touch sensors on A2 and A4
 - I used a usb to power the whole project
