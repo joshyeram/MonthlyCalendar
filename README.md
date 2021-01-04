@@ -30,6 +30,7 @@ So overall
 4. prime
 5. repeat 3 and 4 until smooth
 6. paint
+
 Electronics
 7. From here, it is better if you look at the code (final.ino)
 - NeoPixel strip on D6
