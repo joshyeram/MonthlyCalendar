@@ -34,7 +34,7 @@ So overall
 Electronics
 7. From here, it is better if you look at the code (final.ino)
 - NeoPixel strip on D6
-- touch sensors on A2 and A4
+- touch sensors on A1 and A4
 - I used a USB to power the whole project
     - You can either power it with the plug
     - or strip the wire to + and - then solder it directly to the 5v and ground pins (I did this because why not but either way should work fine)
