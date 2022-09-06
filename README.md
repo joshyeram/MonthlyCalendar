@@ -4,6 +4,8 @@ After school ended, I wanted to make something that would keep track of my new y
 
 https://youtu.be/uk93dJq7Fd0
 
+[![MonthlyCalendar](https://img.youtube.com/vi/uk93dJq7Fd0/0.jpg)](https://www.youtube.com/watch?v=uk93dJq7Fd0)
+
 https://www.reddit.com/r/arduino/comments/ko2izf/monthly_calendar_the_monthly_version_of_the_every/
 
 https://www.reddit.com/r/3Dprinting/comments/ko2m4w/this_project_was_the_first_time_i_ever_processed/
